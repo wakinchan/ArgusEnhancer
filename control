@@ -1,0 +1,9 @@
+Package: com.kindadev.argusenhancer
+Name: ArgusEnhancer
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Display a particular friend to leaderboard.
+Maintainer: kinda
+Author: kinda
+Section: Tweaks
